@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A backend of a nodejs Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "nodejs",
+    "react"
+  ],
+  "author": "Hariom Patidar",
+  "license": "ISC"
+}
